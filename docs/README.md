@@ -4,10 +4,11 @@ title: Home
 heroImage: /images/logo.png
 actions:
   - text: Get Started
+    link: https://example.com
     type: primary
 
   - text: API docs
-    link: https://vuejs.press/guide/introduction.html
+    link: https://example.com
     type: secondary
 
 features:
