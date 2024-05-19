@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/logo.png
 actions:
   - text: Get Started
-    link: https://example.com
+    link: /get-started.html
     type: primary
 
   - text: API docs
