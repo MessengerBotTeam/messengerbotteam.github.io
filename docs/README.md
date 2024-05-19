@@ -8,7 +8,7 @@ actions:
     type: primary
 
   - text: API docs
-    link: https://example.com
+    link: /api/index.html
     type: secondary
 
 features:
