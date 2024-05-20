@@ -1,7 +1,9 @@
 ---
 date: 2024-05-19
-category: Notice
-tag: Notice
+category:
+  - Notice
+tag:
+  - tag notice
 sticky: true
 ---
 
