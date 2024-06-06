@@ -4,7 +4,7 @@ category:
   - CategoryC
 tag:
   - tag E
-sticky: true
+# sticky: true
 excerpt: <p>A sticky article demo.</p>
 ---
 

@@ -4,7 +4,7 @@ category:
   - CategoryC
 tag:
   - tag E
-sticky: 10
+# sticky: 10
 ---
 
 # Sticky Article with Higher Priority
