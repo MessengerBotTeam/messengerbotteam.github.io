@@ -31,3 +31,6 @@ tag:
 ### 기술 추가
 
 - [Shizuku](https://shizuku.rikka.app/) 서비스가 추가되었습니다. 설정에서 shizuku 서비스를 바인딩 할 수 있습니다.
+
+## Download
+[여기](https://github.com/MessengerBotTeam/msgbot-old-release/releases/tag/0.7.34a)에서 다운받으실 수 있습니다!
